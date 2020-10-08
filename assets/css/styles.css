@@ -199,7 +199,6 @@
   
   .highlight {
     color: #313437;
-    /*background-color: #eef4f7;*/
     padding: 20px 0 25px;
     overflow: hidden;
   }
@@ -232,6 +231,7 @@
   
   .highlight .intro .btn {
     padding: 16px 32px;
+    margin: 10px;
     border: none;
     background: none;
     box-shadow: none;
